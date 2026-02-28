@@ -51,6 +51,7 @@
 	     - [柠檬音乐](https://github.com/yangSpica27/SPICaMusic_Android) **`Full` `FOSS`**
 	     - [奇妙音乐](https://github.com/magicalapp/MagicalMusic) **`Full` `FOSS`**
 	- **播客/电台**
+	     - [PodAura](https://github.com/rikkahub/rikkahub) **`Full` `FOSS` `M3E`**
 	- **直播**
 	- **听歌识曲**
 	- **媒体工具**
@@ -156,6 +157,7 @@
 	- **设备互联**
 	- **外设**
 	- **AI**
+	     - [RikkaHub](https://github.com/rikkahub/rikkahub) **`Full` `FOSS` `M3E`**
 	- **自动任务**
 	- **搜索**
 	- **MIUI ROM 查找**
