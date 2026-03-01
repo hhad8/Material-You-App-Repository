@@ -10,14 +10,14 @@
   <img src="https://i.ibb.co/YTXvX49/Wallpaper3.png">
 </p>
 <p align="center">
- <img src="https://img.shields.io/github/stars/Misakayane/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
+ <img src="https://img.shields.io/github/stars/hhad8/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
 </p>
 <p align="center">
-  <a href="https://t.me/misakamaterialyou">
+  <a href="https://t.me/hhmaterialyou">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyou" alt="Telegram">
   </a>
   </br>
-  <a href="https://t.me/misakamaterialyouchat">
+  <a href="https://t.me/hhmaterialyouchat">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Chat&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyouchat" alt="Telegram">
   </a>
 </p>
@@ -26,7 +26,7 @@
 <p align="center"><b>Welcome to  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/>  the repo to support my work if you like it!</b></p>
 
 ## 🚧On Repairing
-Please don't add new apps to this repository, and you could pull request to [this document](https://github.com/Misakayane/Material-You-App-Repository/blob/main/NewApps.md) if you find new Material Design 3 apps. Thanks for your hard work!
+Please don't add new apps to this repository, and you could pull request to [this document](https://github.com/hhad8/Material-You-App-Repository/blob/main/NewApps.md) if you find new Material Design 3 apps. Thanks for your hard work!
 
 ## ⛩️Introduction
 ### ❓️What is Material You?
