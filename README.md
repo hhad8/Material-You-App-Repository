@@ -593,8 +593,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) **`Full` `FOSS`**
 	- [Simple Notes (Yangdai)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp) **`Full` `FOSS`**
 	- [Kalam](https://play.google.com/store/apps/details?id=com.shifastudios.kalam) **`MD`**
-- **Markdown**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
+- **Markdown**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
 	- [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - **Handwritten**
