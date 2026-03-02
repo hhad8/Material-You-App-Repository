@@ -50,6 +50,7 @@
 	     - [Rhythm](https://github.com/cromaguy/Rhythm) **`Full` `FOSS` `M3E`**
 	     - [柠檬音乐](https://github.com/yangSpica27/SPICaMusic_Android) **`Full` `FOSS`**
 	     - [奇妙音乐](https://github.com/magicalapp/MagicalMusic) **`Full` `FOSS`**
+	     - [Namida](https://github.com/namidaco/namida) **`Monet` `FOSS`**
 	- **播客/电台**
 	     - [PodAura](https://github.com/rikkahub/rikkahub) **`Full` `FOSS` `M3E`**
 	- **直播**
