@@ -393,7 +393,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full` `FOSS`**
 	- [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) **`MD-`**
 - **Telegram Clients**
-	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`Full` `Multi`**
+	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`Full` `Multi` `👻`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi` `FOSS`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi` `FOSS`**
 	- [Nekogram](https://nekogram.app/) **`Monet` `Multi` `FOSS`**
