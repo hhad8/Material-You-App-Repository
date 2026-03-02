@@ -421,7 +421,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord Clients**
-	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
+	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS` `👻`**
 - **Twitter (𝕏) Clients**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
