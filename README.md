@@ -43,6 +43,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **`Monet`** - App that **only** supports Dynamic Color, whose components are **completely not** in MD3 style.
 	- **`Full`** - App that **completely** follows Material Design 3, including completely-used MD3 components and Dynamic Color.
 	- **`Multi`** - App that is more friendly for different devices, such as pad and fold.
+	- **`M3E`**：App whose components are in Material 3 Expressive style.
 
 <div align="center">
 
