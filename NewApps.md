@@ -154,6 +154,7 @@
 	- **计时器**
 	- **指南针**
 	- **账号二步验证**
+	     - [Aegis](https://github.com/beemdevelopment/Aegis) **`Full` `FOSS`**
 	- **密码管理**
 	- **文件互传**
 	- **设备互联**
