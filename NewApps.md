@@ -43,7 +43,7 @@
 	- **Bilibili 客户端**
 	- **流式媒体服务器**
 	- **番剧**
-	     - [Animeko](https://github.com/open-ani/animeko) **`Full` `FOSS`**
+	     - [Animeko](https://github.com/open-ani/animeko) **`Full` `FOSS` `Multi`**
 	     - [Kazumi](https://github.com/Predidit/Kazumi) **`Full` `FOSS` `Multi`**
 	- **在线视频播放**
 	- **本地视频播放**
