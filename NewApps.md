@@ -53,7 +53,7 @@
 	     - [奇妙音乐](https://github.com/magicalapp/MagicalMusic) **`Full` `FOSS`**
 	     - [Namida](https://github.com/namidaco/namida) **`Monet` `FOSS` `Multi`**
 	- **播客/电台**
-	     - [PodAura](https://github.com/SkyD666/PodAura) **`Full` `FOSS` `M3E`**
+	     - [PodAura](https://github.com/SkyD666/PodAura) **`Full` `FOSS`**
 	- **直播**
 	- **听歌识曲**
 	- **媒体工具**
