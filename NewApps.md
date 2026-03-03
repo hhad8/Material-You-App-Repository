@@ -160,7 +160,7 @@
 	- **设备互联**
 	- **外设**
 	- **AI**
-	     - [RikkaHub](https://github.com/rikkahub/rikkahub) **`Full` `FOSS` `M3E`**
+	     - [RikkaHub](https://github.com/rikkahub/rikkahub) **`M3E` `FOSS` `Multi`**
 	- **自动任务**
 	- **搜索**
 	- **MIUI ROM 查找**
