@@ -48,7 +48,7 @@
 	- **本地视频播放**
 	- **在线音乐播放**
 	- **本地音乐播放**
-	     - [Rhythm](https://github.com/cromaguy/Rhythm) **`Full` `FOSS` `M3E`**
+	     - [Rhythm](https://github.com/cromaguy/Rhythm) **`M3E` `FOSS`**
 	     - [柠檬音乐](https://github.com/yangSpica27/SPICaMusic_Android) **`Full` `FOSS`**
 	     - [奇妙音乐](https://github.com/magicalapp/MagicalMusic) **`Full` `FOSS`**
 	     - [Namida](https://github.com/namidaco/namida) **`Monet` `FOSS` `Multi`**
