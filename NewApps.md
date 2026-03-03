@@ -121,6 +121,7 @@
          - [Global Icon Pack](https://github.com/RichardLuo0/global-icon-pack-android)
 - **[⚙️ 系统工具](#%EF%B8%8F%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7)**
 	- **文件管理**
+	     - [Prism File Explorer](https://github.com/Raival-e/Prism-File-Explorer) **`Full` `FOSS`**
 	- **硬件信息**
 	- **应用管理**
 	- **应用冻结**
