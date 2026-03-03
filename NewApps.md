@@ -76,6 +76,7 @@
 - **[📖 阅读](#阅读)**
 	- **小说**
 	     - [LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) **`Full` `FOSS`**
+	     - [Legado with MD3](https://github.com/HapeLee/legado-with-MD3) **`Full` `FOSS`**
 	- **RSS/新闻**
 	- **漫画**
 	     - [venera](https://github.com/venera-app/venera) **`MD-` `FOSS` `Multi`**
