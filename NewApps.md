@@ -97,6 +97,7 @@
 	- **菜谱**
 	- **每日一言**
 	- **健康习惯**
+	     - [Deadliner](https://github.com/AritxOnly/Deadliner) **`Full` `FOSS`**
 	- **学习**
 	- **语言学习**
 	- **追踪管理**
