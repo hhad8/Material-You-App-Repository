@@ -53,6 +53,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 |**`MD-`**|🚫|-|
 |**`Monet`**|🚫|✅|
 |**`Full`**|✅|✅|
+|**`M3E`**|✅|✅|
 
 </div>
 
