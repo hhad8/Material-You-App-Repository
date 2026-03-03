@@ -45,6 +45,8 @@
 	- **番剧**
 	     - [Animeko](https://github.com/open-ani/animeko) **`Full` `FOSS` `Multi`**
 	     - [Kazumi](https://github.com/Predidit/Kazumi) **`Full` `FOSS` `Multi`**
+	     - [Animius](https://github.com/lanlinju/Animius) **`Full` `FOSS` `Multi`**
+	     - [LaQoo](https://github.com/laqoome/LaQoo) **`Full` `FOSS` `Multi`**
 	- **在线视频播放**
 	- **本地视频播放**
 	- **在线音乐播放**
