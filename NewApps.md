@@ -43,6 +43,7 @@
 	- **Bilibili 客户端**
 	- **流式媒体服务器**
 	- **番剧**
+	     - [Animeko](https://github.com/open-ani/animeko) **`Full` `FOSS`**
 	- **在线视频播放**
 	- **本地视频播放**
 	- **在线音乐播放**
