@@ -1174,7 +1174,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full` `💴`**
    	- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet` `FOSS`**
 - **Logger/Feedback**   
-   	- [logfox](https://github.com/F0x1d/LogFox) **`Full` `FOSS`**    
+   	- [LogFox](https://github.com/F0x1d/LogFox) **`Full` `FOSS` `Multi`**    
    	- [logra](https://github.com/wingio/Logra) **`Full` `FOSS`**    
 - **Link Manager**   
    	- [URLCheck](https://github.com/TrianguloY/UrlChecker) **`MD-` `Monet` `FOSS`**    
