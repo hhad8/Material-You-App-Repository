@@ -167,6 +167,7 @@
 	- **外设**
 	- **AI**
 	     - [RikkaHub](https://github.com/rikkahub/rikkahub) **`M3E` `FOSS` `Multi`**
+	     - [MNN](https://github.com/alibaba/MNN) **`MD-` `FOSS`**
 	- **自动任务**
 	- **搜索**
 	- **MIUI ROM 查找**
