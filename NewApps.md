@@ -41,6 +41,8 @@
 	- **Spotify 客户端**
 	- **网易云音乐 客户端**
 	- **Bilibili 客户端**
+	     - [PiliPalaX](https://github.com/orz12/PiliPalaX) **`Full` `FOSS` `👻`**
+		 - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) **`Full` `FOSS`
 	- **流式媒体服务器**
 	- **番剧**
 	     - [Animeko](https://github.com/open-ani/animeko) **`Full` `FOSS` `Multi`**
