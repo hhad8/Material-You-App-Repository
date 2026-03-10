@@ -176,6 +176,7 @@
 	- **搜索**
 	- **MIUI ROM 查找**
 	- **多功能工具箱**
+	     - [OneDroid](https://qingge.tech/onedroid/web/) **`MD` `FOSS`**
 	- **代理工具**
 	- **测量工具**
 	- **其他**
