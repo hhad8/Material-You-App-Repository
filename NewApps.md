@@ -113,6 +113,7 @@
 	- **其他**
 - **[🖌️ 主题美化](#%EF%B8%8F%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96)**
 	- **启动器**
+	     - [Smart Launcher](https://play.google.com/store/apps/details?id=ginlemon.flowerfree) **`Full` `💴`**
 	- **壁纸**
 	- **图标包**
 	- **微件/KWGT**
