@@ -67,6 +67,7 @@
 	- **Markdown**
 	- **手写笔记**
 	- **日记**
+	     - [Moodiary](https://github.com/ZhuJHua/moodiary) **`Full` `FOSS`**
 	- **画板**
 	- **文档**
 	- **待办清单**
