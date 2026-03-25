@@ -130,6 +130,7 @@
 	- **应用管理**
 	- **应用冻结**
 	- **应用市场**
+	     - [GitHub Store](https://github.com/OpenHub-Store/Github-Store) **`Full` `FOSS`**
 	- **安全隐私**
 	- **均衡器**
 	- **权限管理**
