@@ -266,7 +266,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [WakeUp Scheduler](https://www.coolapk.com/apk/com.suda.yzune.wakeupschedule) **`Full` `Multi`**
 - [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) **`Full` `Multi`**
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) **`Full` `Multi`**
-- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
+- [RikkaHub](https://github.com/rikkahub/rikkahub) **`M3E` `FOSS` `Multi`**
 - [Journey](https://play.google.com/store/apps/details?id=com.journey.app) **`MD` `Multi`**
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
