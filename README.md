@@ -1383,7 +1383,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Toolbox**    
    	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
-   	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full` `⚠️`** ([Evidence](https://www.coolapk1s.com/feed/46962117))
    	- [Plain](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`**
    	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
    	- [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
