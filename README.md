@@ -64,7 +64,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **`FOSS`** - App that is free and open-sourse. No indicator means app is Closed Source.
 	- **`💴`** - App that needs to pay to activate some features.
 	- **`👻`** - App that stops updating for some reasons.
-	- **`⚠️`** - App that violates the open source licenses, may infringes on the rights and interests of other developers, maliciously abuses system permissions, or has other improper behaviors. Evidence will be marked behind.
 
 ### 💖Thanks to
 - **Misaka 13766**, the creator of this repository.
