@@ -528,7 +528,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi` `FOSS`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD` `FOSS`**
 	- [Onstream](https://onstream.to/) **`MD-`**
-	- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `⚠️`** ([Evidence](https://t.me/misakamaterialyou/461))
 - **Offline Videos Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [VideoYouX](https://github.com/Clearpole/VideoYouX) **`Full` `Multi` `FOSS`**
