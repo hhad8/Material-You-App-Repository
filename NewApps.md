@@ -86,7 +86,7 @@
 	     - [Legado with MD3](https://github.com/HapeLee/legado-with-MD3) **`Full` `FOSS`**
 	- **RSS/新闻**
 	- **漫画**
-	     - [venera](https://github.com/venera-app/venera) **`MD-` `FOSS` `Multi`**
+	     - [venera](https://github.com/venera-app/venera) **`MD-` `FOSS` `Multi` `👻`**
 	- **有声书**
 	- **百科**
 - **[🌦️ 日常生活](#%EF%B8%8F%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB)**
