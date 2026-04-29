@@ -115,6 +115,7 @@
 	- **启动器**
 	     - [Smart Launcher](https://play.google.com/store/apps/details?id=ginlemon.flowerfree) **`Full` `💴`**
 	- **壁纸**
+	     - [Smart Launcher](https://github.com/Sephuan/MonetCanvas) **`Full` `FOSS`**
 	- **图标包**
 	- **微件/KWGT**
 	- **灵动岛**
