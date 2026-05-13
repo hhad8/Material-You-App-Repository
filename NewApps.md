@@ -209,5 +209,6 @@
 	- **随机小工具**
 	- **迷宫**
 	- **其他小游戏**
+	     - [Game of Life](https://github.com/Efimj/GameOfLife) **`Full` `FOSS`**
 	- **Minecraft 工具**
 	- **其他**
