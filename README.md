@@ -67,8 +67,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 
 ### 💖Thanks to
 - **Misaka 13766**, the creator of this project. 
-- **@hushenghao** and **@CHNJohnHK**, who took over the project during Misaka 13766’s absence and continued to maintain it for a long time, deserve our heartfelt gratitude!
-- **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://t.me/materialyouapps) to join Telegram Channel.
+- **[@hushenghao](https://github.com/hushenghao)** and **[@CHNJohnHK](https://github.com/CHNJohnHK)**, who took over the project during Misaka 13766’s absence and continued to maintain it for a long time, deserve our heartfelt gratitude!
+- **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps this project a lot. [Click here](https://t.me/materialyouapps) to join Telegram Channel.
 - Friends who provide many materials for me and make suggestions to me to make this repository more pretty.
 - F-Droid, which gives me a convenient access to FOSS and Material You apps.
 - Developers who keep using Material You. You have made an indelible contribution to Google's software ecosystem!
