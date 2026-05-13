@@ -276,7 +276,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
-- [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
+- [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS` `👻`**
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
@@ -504,7 +504,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [bi](https://github.com/storytellerF/bi) **`Full` `Multi` `FOSS`**
 	- [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
 	- [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) **`TODO`**
-    - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
+    - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS` `👻`**
 - **Streaming Server Clients**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD` `FOSS`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full` `FOSS`**
