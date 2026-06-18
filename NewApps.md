@@ -193,6 +193,7 @@
 	- **组件库与演示**
 	- **Android Studio 教学**
 	- **Termux**
+	     - [aShellYou](https://github.com/DP-Hridayan/aShellYou) **`M3E` `FOSS`**
 	- **Lua**
 	- **其他**
 - **[#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)**
