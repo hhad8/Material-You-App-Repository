@@ -183,6 +183,7 @@
 	     - [Kelivo](https://github.com/Chevey339/kelivo) **`Full` `FOSS` `Multi`**
 	     - [MNN](https://github.com/alibaba/MNN) **`MD-` `FOSS`**
 		 - [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery) **`MD` `FOSS`**
+		 - [Google Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) **`MD`**
 	- **自动任务**
 	- **搜索**
 	- **MIUI ROM 查找**
