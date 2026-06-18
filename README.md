@@ -398,7 +398,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`Full` `Multi` `👻`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi` `FOSS`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi` `FOSS`**
-	- [Nekogram](https://nekogram.app/) **`Monet` `Multi` `FOSS`**
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet` `Multi` `FOSS`**
 	- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `Multi` `FOSS`**
 	- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `Multi` `FOSS`**
@@ -1388,7 +1387,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash Multiplatform](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `👻`**
    	- [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) **`Full` `FOSS`**
-   	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
    	- [sing-box](https://github.com/SagerNet/sing-box/releases) **`Full` `FOSS`**
