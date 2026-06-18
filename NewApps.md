@@ -179,6 +179,7 @@
 	- **外设**
 	- **AI**
 	     - [RikkaHub](https://github.com/rikkahub/rikkahub) **`M3E` `FOSS` `Multi`**
+	       - [LastChat](https://github.com/Cocolalilal/LastChat) **`M3E` `FOSS` `Multi`**
 	     - [Kelivo](https://github.com/Chevey339/kelivo) **`Full` `FOSS` `Multi`**
 	     - [MNN](https://github.com/alibaba/MNN) **`MD-` `FOSS`**
 		 - [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery) **`MD` `FOSS`**
