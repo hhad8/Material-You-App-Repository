@@ -294,18 +294,18 @@ As the father of Material You, Google is changing its applications to Material D
 - [Google Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock) **`Full` `Multi`**
 - [Google Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) **`Full` `Multi`**
 - [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder) **`Full` `Multi`**
-- [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator) **`Full` `Multi`**
-- [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) **`Full` `Multi`**
+- [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator) **`M3E` `Multi`**
+- [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep) **`M3E` `Multi`**
 - [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app) **`MD-` `Multi`**
 - [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) **`MD-` `Multi`**
 - [Google Assistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant) **`Monet`**
-- [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer) **`MD-` `Monet`**
-- [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts) **`MD-` `Monet`**
+- [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer) **`M3E`**
+- [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts) **`M3E`**
 - [Google Message](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) **`MD-` `Monet` `Multi`**
-- [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) **`MD-` `Monet` `Multi`**
+- [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) **`M3E` `Multi`**
 - [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) **`MD-` `Monet` `Multi`**
 - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) **`MD-`**
-- [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) **`MD-` `Monet` `Multi`**
+- [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) **`M3E` `Multi`**
 - [Google Podcasts](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts) **`MD-` `Monet`**
 - [Google Lens](https://play.google.com/store/apps/details?id=com.google.ar.lens) **`MD-` `Monet`**
 - [Google News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) **`MD-` `Multi`**
@@ -313,20 +313,20 @@ As the father of Material You, Google is changing its applications to Material D
 - [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite) **`MD-` `Monet`**
 - [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) **`MD-` `Monet` `Multi`**
 - [Health Connect](https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata) **`MD-` `Monet`**
-- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) **`Full`**
+- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) **`M3E`**
 - [Google Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) **`MD-` `Monet`**
 - [Google Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink) **`Full`**
-- [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) **`MD-` `Monet`**
+- [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) **`M3E`**
 - [GPay](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user) **`MD-`**
-- [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) **`MD-` `Monet`**
+- [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) **`M3E`**
 - [GBoard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) **`Full`**
-- [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) **`MD-` `Monet` `Multi`**
+- [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) **`M3E` `Multi`**
 - [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) **`MD-` `Monet`**
-- [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks) **`Full` `Multi`**
-- [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs) **`MD-` `Monet`**
-- [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides) **`MD-` `Monet`**
-- [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) **`MD-` `Monet`**
-- [GMail](https://play.google.com/store/apps/details?id=com.google.android.gm) **`MD-` `Monet` `Multi`**
+- [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks) **`M3E` `Multi`**
+- [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs) **`M3E`**
+- [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides) **`M3E`**
+- [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) **`M3E`**
+- [GMail](https://play.google.com/store/apps/details?id=com.google.android.gm) **`M3E` `Multi`**
 - [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) **`MD-` `Monet` `Multi`**
 - [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion) **`MD-` `Monet`**
 - [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion) **`MD-` `Monet`**
@@ -508,7 +508,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Streaming Server Clients**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD` `FOSS`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full` `FOSS`**
-	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`Full`**
+	- [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player) **`M3E` `💴`**
 	- [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) **`Full` `Multi` `💴`**
 	- [Drive Stream](https://github.com/itszechs/DriveStream) **`MD` `FOSS`**
 	- [Tempo](https://github.com/CappielloAntonio/tempo) **`MD-` `Monet` `FOSS`**
@@ -545,16 +545,15 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Symphony](https://www.f-droid.org/packages/io.github.zyrouge.symphony/) **`Full` `FOSS`**
 	- [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) **`MD` `💴`**
 	- [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) **`Full` `FOSS`**
-	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`Full`**
+	- [PixelPlayer](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`M3E` `FOSS`**
 	- [Pure Music](https://github.com/pure-music/PureMusic) **`Full` `Multi` `💴`**
-	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet`**
+	- [Vanilla Music](https://play.google.com/store/apps/details?id=com.kyant.vanilla) **`MD-` `Monet` `👻`**
 	- [Simple MP](https://github.com/lighttigerXIV/SimpleMP-Compose) **`Full` `Multi` `FOSS`**
 	- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 	- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 	- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 	- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
-	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
-      - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
+    - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
@@ -678,7 +677,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Editor**
 	- [Photo Editor](https://t.me/anubis_recommended/139) **`Monet` `MOD`**
 	- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) **`Full` `FOSS`**
-	- [Image Toolbox](https://github.com/T8RIN/ImageToolbox) **`Full` `Multi` `FOSS`**
+	- [Image Toolbox](https://github.com/T8RIN/ImageToolbox) **`M3E` `Multi` `FOSS`**
 	- [Image Compressor](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) **`Full` `💴`**
 	- [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter) **`MD-` `Multi`**
 	- [EasyWatermark](https://github.com/rosuH/EasyWatermark) **`Full` `FOSS`**
@@ -726,7 +725,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Feeder](https://gitlab.com/spacecowboy/Feeder) **`Full` `FOSS`**
 	- [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader) **`MD` `Multi`**
 	- [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary) **`Monet` `Multi`**
-	- [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) **`MD-`**
+	- [Harmonic](https://github.com/SimonHalvdansson/Harmonic-HN) **`M3E` `FOSS`**
 	- [Every Daily](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full` `FOSS`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-` `FOSS`**
@@ -876,7 +875,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
 - **Tracking Services**
 	- [MyACG](https://1drv.ms/u/s!Atk49Scq_BtYhGnlrCISLKe5fG3A?e=BIvlj6) **`MD`**
-	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi` `💴`**
+	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`M3E` `Multi` `💴`**
 	- [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) **`Full` `FOSS`**
 	- [Pano Scrobbler for LastFM](https://github.com/kawaiiDango/pScrobbler) **`Full` `Multi` `FOSS`**
 	- [Showly](https://github.com/michaldrabik/showly-2.0) / [ShowlyOSS](https://github.com/1RandomDev/showly-oss) **`MD-` `FOSS`**
@@ -974,7 +973,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full` `FOSS`**
-   	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full` `FOSS`**
+   	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`M3E` `FOSS`**
    	- [Pure Iconpack](https://www.coolapk.com/apk/com.panpandada.pure) **`Full`**    
    	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
    	- [Cayicons](https://www.coolapk.com/apk/app.lawnchair.lawnicons) **`Full`**    
@@ -1306,7 +1305,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
 - **Timer**
    	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
-   	- [Cofi](https://github.com/rozPierog/Cofi) **`Full` `Multi` `FOSS`**
+   	- [Cofi](https://github.com/rozPierog/Cofi) **`M3E` `Multi` `FOSS`**
    	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
    	- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full` `FOSS`**
    	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-` `FOSS`**   
@@ -1325,7 +1324,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full` `FOSS`**    
    	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full` `FOSS`**    
    	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD` `FOSS`**    
-   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`Full` `Multi` `💴`**   
+   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`M3E` `Multi` `💴`**   
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
    	- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
@@ -1566,7 +1565,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Counter](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) **`Full`** 
    	- [Tap Counter](https://github.com/DDR13GIT/TapCounter) **`TODO` `FOSS`**
 - **Randomizer**
-   	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`Full` `FOSS`**   
+   	- [Randomix](https://github.com/m-i-n-a-r/randomix) **`M3E` `FOSS`**   
    	- [Tabletop Tools](https://github.com/mueller-ma/TabletopTools) **`Full` `FOSS`**  
    	- [Randomizer](https://play.google.com/store/apps/details?id=com.redmerah.randomizer) **`MD`**
    	- [Randomizer (Code Clickers)](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer) **`Full`**
