@@ -96,7 +96,7 @@
 	- **虚拟货币**
 	- **卡包**
 	- **日历**
-	- [June](https://github.com/DenserMeerkat/June) **`M3E` `FOSS`**
+	     - [June](https://github.com/DenserMeerkat/June) **`M3E` `FOSS`**
 	- **天气**
 	- **地图导航**
 	- **购物**
