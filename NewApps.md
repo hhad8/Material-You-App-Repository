@@ -90,6 +90,7 @@
 	     - [venera](https://github.com/venera-app/venera) **`MD-` `FOSS` `Multi` `👻`**
 	- **有声书**
 	- **百科**
+	     - [WikiReader](https://github.com/nsh07/WikiReader) **`M3E` `FOSS`**
 - **[🌦️ 日常生活](#%EF%B8%8F%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB)**
 	- **记账**
 	- **虚拟货币**
