@@ -289,7 +289,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Cashew](https://github.com/jameskokoska/Cashew) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
-### 🦖[Google Apps](#applist-menu)
+### [🦖Google Apps](#applist-menu)
 As the father of Material You, Google is changing its applications to Material Design 3. Most of Google Apps are based on Material Design 3 now, although there may be some imperfect. Below are Google Apps with Material You nowadays.
 - [Google Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock) **`Full` `Multi`**
 - [Google Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) **`Full` `Multi`**
@@ -340,7 +340,7 @@ As the father of Material You, Google is changing its applications to Material D
 - [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub) **`MD`**
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 ---
-### 👨‍💻[OEM Apps](#applist-menu)
+### [👨‍💻OEM Apps](#applist-menu)
 As I know, 
 
 - **Moto MYUI**
