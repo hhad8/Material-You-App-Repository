@@ -203,6 +203,7 @@
 	- **Shizuku/Dhizuku/ADB**
 	- **Xposed 模块**
 	- **其他需要 Root 权限的工具**
+	     - [RvKernel Manager](https://github.com/Rve27/RvKernel-Manager) **`M3E` `FOSS`**
 - **[🎮 游戏](#游戏)**
 	- **模拟器**
 	- **乐器弹奏**
