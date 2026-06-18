@@ -64,6 +64,7 @@
 	- **媒体工具**
 - **[✍ 写写画画](#写写画画)**
 	- **笔记**
+	     - [Kori](https://github.com/YangDai2003/Kori) **`M3E` `FOSS`**
 	- **Markdown**
 	- **手写笔记**
 	- **日记**
