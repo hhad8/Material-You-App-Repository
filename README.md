@@ -553,7 +553,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 	- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 	- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
-    - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
+    - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
