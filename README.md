@@ -84,7 +84,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - **[🦖 Google Apps](#google-apps)**
 - **[👨‍💻 OEM Apps](#oem-apps)**
 	- **Moto MYUI**
-	- **Nothing OS** 
+	- **Nothing OS**
 	- **Octavi OS**
 	- **ASUS Zenui**
 - **[👥 Chat & Social Network](#chat--social-network)**
@@ -102,12 +102,12 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Lemmy Clients**
 	- **Other DAO Social Applications**
 	- **BBS**
-	- **Mail**  
+	- **Mail**
 	- **Others**
 - **[🎵 Media](#media)**
 	- **Youtube Clients**
 	- **Youtube Music Clients**
-	- **Spotify Clients** 
+	- **Spotify Clients**
 	- **Netease Cloud Music Clients**
 	- **Bilibili Clients**
 	- **Streaming Server Clients**
@@ -164,11 +164,11 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Smart Home**
 	- **Others**
 - **[🖌️ Theming](#%EF%B8%8Ftheming)**
-	- **Launcher** 
-	- **Wallpapers**    
-	- **Icon Pack** 
-	- **Widget/KWGT**   
-	- **Dynamic Island** 
+	- **Launcher**
+	- **Wallpapers**
+	- **Icon Pack**
+	- **Widget/KWGT**
+	- **Dynamic Island**
 	- **Native System Customization**
 	- **GBoard Customization**
 	- **Monet Theme for Other Apps**
@@ -187,8 +187,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Backup**
 	- **Battery Manager**
 	- **Screen Display**
-	- **TTS**  
-	- **Cleaner**  
+	- **TTS**
+	- **Cleaner**
 	- **Logger/Feedback**
 	- **Link Manager**
 	- **Installer**
@@ -197,8 +197,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Others**
 - **[🧰 Tools](#tools)**
 	- **Downloader**
-	- **App Downloader** 
-	- **Resources Searching Tool**   
+	- **App Downloader**
+	- **Resources Searching Tool**
 	- **Netdisk**
 	- **Keyboard**
 	- **Calculator**
@@ -206,39 +206,39 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Recorder**
 	- **Scanner**
 	- **Flashlight**
-	- **Clock** 
+	- **Clock**
 	- **Stopwatch**
 	- **Timer**
 	- **Compass**
 	- **2FA**
-	- **Password Manager** 
+	- **Password Manager**
 	- **Sender**
 	- **Connecting Tool**
 	- **Peripheral**
-	- **AI** 
-	- **Auto Clicker**  
-	- **Searching Tool** 
-	- **MIUI ROM Downloading Tool** 
-	- **Toolbox** 
+	- **AI**
+	- **Auto Clicker**
+	- **Searching Tool**
+	- **MIUI ROM Downloading Tool**
+	- **Toolbox**
 	- **Proxy**
 	- **Measuring**
-	- **Others** 
+	- **Others**
 - **[🔧 Developer Tools](#developer-tools)**
-	- **Server** 
+	- **Server**
 	- **Componets & Demo**
 	- **Android Studio Tutorials**
 	- **Termux**
 	- **Lua**
 	- **Others**
 - **[#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)**
-	- **Manager**  
-	- **Root Defender** 
+	- **Manager**
+	- **Root Defender**
 	- **Shizuku/Dhizuku/ADB**
 	- **Xposed Modules**
 	- **Others**
 - **[🎮 Games](#games)**
-	- **Emulator** 
-	- **Instruments** 
+	- **Emulator**
+	- **Instruments**
 	- **Quiz**
 	- **Sudoku**
 	- **Tic Tac Toe**
@@ -247,7 +247,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Puzzle**
 	- **Other Small Games**
 	- **Minecraft Tools**
-	- **Others** 
+	- **Others**
 - **[🪄 Monet Modules](#monet-modules)**
 ## 🏆Recommended
 - [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
