@@ -30,6 +30,7 @@
 	- **Mastodon 客户端**
 	- **Lemmy 客户端**
 	- **其他去中心化社交平台**
+	     - [Solian](https://github.com/Solsynth/Solian) **`Full` `FOSS`**
 	- **微博客户端**
 	     - [One](https://appservice.notion.site/App-f5954f3fd5484586b79695e145b8219f) **`Full` `💴`**
 	- **论坛**
