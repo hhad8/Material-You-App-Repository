@@ -1415,7 +1415,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ### [🔧Developer Tools](#applist-menu)
 - **Server**    
    	- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) **`Full` `Multi` `FOSS`**    
-   	- [My Server Status](https://github.com/JGeek00/my-server-status-app) **`Full` `FOSS`**    
+   	- [Server Status](https://github.com/JGeek00/server-status-android) **`Full` `FOSS`**    
    	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full` `FOSS`**    
    	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
    	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet` `FOSS`**  
