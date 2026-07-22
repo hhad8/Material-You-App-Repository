@@ -1414,11 +1414,11 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ---
 ### [🔧Developer Tools](#applist-menu)
 - **Server**    
-   	- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) **`Full` `Multi` `FOSS`**    
-   	- [Server Status](https://github.com/JGeek00/server-status-android) **`Full` `FOSS`**    
-   	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full` `FOSS`**    
-   	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
-   	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet` `FOSS`**  
+   	- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) **`Full` `Multi` `FOSS`**
+   	- [Server Status](https://github.com/JGeek00/server-status-android) **`Full` `FOSS`**
+   	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full` `FOSS`**
+   	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**
+   	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet` `FOSS`**
    	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-` `FOSS`**
    	- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
    	- [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
