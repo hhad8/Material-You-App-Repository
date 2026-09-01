@@ -1225,46 +1225,46 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 ---
 ## [🧰小工具](#目录)
 - **下载器**
-   	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi` `💴`**    
-   	- [Seal](https://github.com/JunkFood02/Seal) **`Full` `FOSS`**    
-   	- [忻视down](https://github.com/Yos-X/YBVD_Release) **`Full`**    
-   	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**    
+   	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi` `💴`**
+   	- [Seal](https://github.com/JunkFood02/Seal) **`Full` `FOSS`**
+   	- [忻视down](https://github.com/Yos-X/YBVD_Release) **`Full`**
+   	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full` `FOSS`**
    	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
    	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
 - **应用下载器**
-   	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**    
-   	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full` `FOSS`**    
-   	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full` `FOSS`** 
+   	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**
+   	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full` `FOSS`**
+   	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full` `FOSS`**
    	- [BiTGApps](https://bitgapps.io/app) **`Full` `FOSS`**
    	- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-` `FOSS`**
 - **资源搜索**
-   	- [奇妙搜索](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
+   	- [奇妙搜索](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**
    	- [混合盘](https://hunhepan.com/) **`MD`**
 - **网盘**
    	- [lanzoucloud](https://jdy2002.lanzoue.com/b041496oj)（密码123456） **`MD`**
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi` `💴`**
-   	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD` `FOSS`**    
+   	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD` `FOSS`**
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD` `FOSS`**
    	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
    	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - **输入法**
-   	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**    
+   	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet` `FOSS`**
-   	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full` `FOSS`**    
+   	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full` `FOSS`**
    	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet` `FOSS`**
-   	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet` `FOSS`** 
+   	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet` `FOSS`**
    	- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet` `FOSS`**
    	- [FBoard](https://t.me/fredboard/42) **`Full`**
 - **计算器**
-   	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi` `FOSS`**    
-   	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi` `FOSS`**    
-   	- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) **`Full` `Multi` `FOSS`**    
-   	- [OpenCalc](https://github.com/Darkempire78/OpenCalc) **`Full` `Multi` `FOSS`**    
-   	- [全能计算器](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi` `💴`**    
-   	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi` `FOSS`**    
-   	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi` `FOSS`**    
+   	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi` `FOSS`**
+   	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi` `FOSS`**
+   	- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) **`Full` `Multi` `FOSS`**
+   	- [OpenCalc](https://github.com/Darkempire78/OpenCalc) **`Full` `Multi` `FOSS`**
+   	- [全能计算器](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi` `💴`**
+   	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi` `FOSS`**
+   	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi` `FOSS`**
    	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full` `FOSS`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
@@ -1276,91 +1276,91 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
    	- [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
 - **翻译**
-   	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**    
+   	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**
    	- [译站](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**
    	- [Lentil Translate](https://github.com/yaxarat/lingvaandroid) **`Full` `FOSS`**
    	- [Monocles Translator](https://codeberg.org/Arne/monocles_translator) **`Full` `FOSS`**
-   	- [瞬译](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy) **`MD-`**    
+   	- [瞬译](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy) **`MD-`**
 - **录音机**
-   	- [micCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) **`Full`**    
-   	- [Record You](https://github.com/Bnyro/recordYou) **`Full` `FOSS`**    
-   	- [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) **`Full` `FOSS`**    
+   	- [micCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) **`Full`**
+   	- [Record You](https://github.com/Bnyro/recordYou) **`Full` `FOSS`**
+   	- [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) **`Full` `FOSS`**
    	- [Audio Notes](https://github.com/certified84/AudioNote) **`MD-` `FOSS`**
    	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO` `FOSS`**
 - **扫一扫**
-   	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full` `💴`**    
-   	- [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi` `FOSS`**    
-   	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi` `💴`**   
-   	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`MD-` `Monet` `💴`**    
+   	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full` `💴`**
+   	- [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi` `FOSS`**
+   	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi` `💴`**
+   	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`MD-` `Monet` `💴`**
    	- [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) **`TODO` `FOSS`**
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full` `FOSS`**
    	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
    	- [QScan](https://github.com/Henry-Hiles/QScan) **`Full` `FOSS`**
    	- [简易OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
 - **手电筒**
-   	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full` `FOSS`**    
-   	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full` `FOSS`**    
+   	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full` `FOSS`**
+   	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full` `FOSS`**
    	- [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight) **`Full`**
    	- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) **`Full` `FOSS`**
-- **时钟**  
-   	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full` `FOSS`**    
-   	- [精准时间](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**    
-   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full` `FOSS`** 
+- **时钟**
+   	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full` `FOSS`**
+   	- [精准时间](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**
+   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full` `FOSS`**
    	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
 - **秒表**
    	- [Stopwatch (Wear OS)](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`Full` `Multi`**
    	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
 - **计时器**
-   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
+   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**
    	- [Cofi](https://github.com/rozPierog/Cofi) **`M3E` `Multi` `FOSS`**
    	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
    	- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full` `FOSS`**
-   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-` `FOSS`**   
-   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full` `FOSS`**   
+   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-` `FOSS`**
+   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full` `FOSS`**
 - **指南针**
    	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet` `FOSS`**
 - **账号二步验证**
-   	- [Mauth](https://github.com/X1nto/Mauth) **`Full` `FOSS`** 
+   	- [Mauth](https://github.com/X1nto/Mauth) **`Full` `FOSS`**
    	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full` `FOSS`**
    	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full` `FOSS`**
    	- [踟蹰](https://github.com/zsakvo/Kakunin-Mobile) **`Full` `FOSS`**
    	- [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
 - **密码管理**
-   	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD` `FOSS`**    
-   	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full` `💴`**    
-   	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full` `FOSS`**    
-   	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full` `FOSS`**    
-   	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD` `FOSS`**    
-   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`M3E` `Multi` `💴`**   
+   	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD` `FOSS`**
+   	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full` `💴`**
+   	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full` `FOSS`**
+   	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full` `FOSS`**
+   	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD` `FOSS`**
+   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`M3E` `Multi` `💴`**
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
    	- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
    	- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 - **文件互传**
-   	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**    
-   	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**       
-   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi` `FOSS`**       
-   	- [Photon](https://github.com/abhi16180/photon) **`MD-` `FOSS`** 
-   	- [榧](https://github.com/storytellerF/Fei) **`Full` `FOSS`** 
+   	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**
+   	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**
+   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi` `FOSS`**
+   	- [Photon](https://github.com/abhi16180/photon) **`MD-` `FOSS`**
+   	- [榧](https://github.com/storytellerF/Fei) **`Full` `FOSS`**
 - **设备互联**
-   	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`** 
+   	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet` `FOSS`**
-   	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi` `FOSS`** 
+   	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi` `FOSS`**
 - **外设**
-   	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full` `FOSS`**    
-   	- [CAPod](https://github.com/d4rken-org/capod) **`MD` `FOSS`**    
-   	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full` `FOSS`**    
+   	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full` `FOSS`**
+   	- [CAPod](https://github.com/d4rken-org/capod) **`MD` `FOSS`**
+   	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full` `FOSS`**
    	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi` `FOSS`**
    	- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
    	- [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) **`MD` `Multi` `FOSS`**
 - **AI**
    	- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
-   	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full` `FOSS`**    
-   	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
-   	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full` `FOSS`**    
-   	- [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai) **`MD`**    
-   	- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) **`MD`**    
-   	- [Sense](https://github.com/F0x1d/Sense) **`Full` `FOSS`**  
+   	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full` `FOSS`**
+   	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**
+   	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full` `FOSS`**
+   	- [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai) **`MD`**
+   	- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) **`MD`**
+   	- [Sense](https://github.com/F0x1d/Sense) **`Full` `FOSS`**
    	- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
    	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
@@ -1371,24 +1371,24 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [VIC](https://github.com/iamlooper/VIC) **`Full`**
    	- [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - **自动任务**
-   	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**    
-   	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**    
-   	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full` `FOSS`**    
+   	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**
+   	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**
+   	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full` `FOSS`**
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
-   	- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码7vm2) **`Full`**  
+   	- [点击助手](https://wwxt.lanzout.com/b0dn18zwd) (密码7vm2) **`Full`**
    	- [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full` `💴`**
    	- [点击助手 Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
 - **搜索**
-   	- [Gugal](https://gitlab.com/narektor/gugal) **`Full` `FOSS`**    
+   	- [Gugal](https://gitlab.com/narektor/gugal) **`Full` `FOSS`**
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
    	- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**
 - **MIUI ROM 查找**
-   	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
+   	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**
    	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full` `💴`**
 - **多功能工具箱**
    	- [远航工具箱](https://wwpz.lanzoum.com/idAeB0zszgmh) (密码nmsb) **`Full`**
    	- [小布百宝箱](https://www.coolapk1s.com/feed/45145335) **`Full`**
-   	- [简朴](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`** 
+   	- [简朴](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`**
    	- [工具大师](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
    	- [暮光](https://wwz.lanzoul.com/iBden10w6pid) **`Full`**
    	- [集装箱](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
@@ -1402,15 +1402,15 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
    	- [FlClash](https://github.com/chen08209/FlClash) **`Full` `Multi` `FOSS`**
 - **测量工具**
-   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
+   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`**
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full` `FOSS`**
    	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
 - **其他**
-   	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full` `FOSS`**    
-   	- [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs) **`Full`**    
-   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**       
-   	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi` `FOSS`**    
-   	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD` `FOSS`**    
+   	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full` `FOSS`**
+   	- [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs) **`Full`**
+   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**
+   	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi` `FOSS`**
+   	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD` `FOSS`**
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi` `FOSS`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**

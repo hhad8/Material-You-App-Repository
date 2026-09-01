@@ -1216,47 +1216,47 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
-   	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi` `💴`**    
-   	- [Seal](https://github.com/JunkFood02/Seal) **`Full` `FOSS`**    
-   	- [YOSBiliVideoDown](https://github.com/Yos-X/YBVD_Release) **`Full`**    
-   	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**    
+   	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi` `💴`**
+   	- [Seal](https://github.com/JunkFood02/Seal) **`Full` `FOSS`**
+   	- [YOSBiliVideoDown](https://github.com/Yos-X/YBVD_Release) **`Full`**
+   	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full` `FOSS`**
    	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
    	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
-- **App Downloader**   
-   	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**    
-   	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full` `FOSS`**    
-   	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full` `FOSS`** 
+- **App Downloader**
+   	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**
+   	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full` `FOSS`**
+   	- [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) **`Full` `FOSS`**
    	- [BiTGApps](https://bitgapps.io/app) **`Full`**
    	- [SongTube](https://github.com/SongTube/SongTube-App) **`MD-` `FOSS`**
-- **Resources Searching Tool**   
-   	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
-   	- [Hunhepan](https://hunhepan.com/) **`MD`**    
-- **Netdisk** 
-   	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**    
-   	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi` `💴`**    
-   	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD` `FOSS`**    
+- **Resources Searching Tool**
+   	- [Magic Search](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**
+   	- [Hunhepan](https://hunhepan.com/) **`MD`**
+- **Netdisk**
+   	- [lanzoucloud](https://1drv.ms/u/s!Atk49Scq_BtYhGd4LJN1fJftw-HQ?e=5jznMk) **`MD`**
+   	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi` `💴`**
+   	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD` `FOSS`**
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD` `FOSS`**
    	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
    	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
-- **Keyboard**    
-   	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**    
-   	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet` `FOSS`**    
-   	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full` `FOSS`**    
+- **Keyboard**
+   	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**
+   	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet` `FOSS`**
+   	- [thumb-key](https://github.com/dessalines/thumb-key) **`Full` `FOSS`**
    	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet` `FOSS`**
-   	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet` `FOSS`** 
+   	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet` `FOSS`**
    	- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet` `FOSS`**
    	- [FBoard](https://t.me/fredboard/42) **`Full`**
-- **Calculator**   
-   	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi` `FOSS`**    
-   	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi` `FOSS`**    
-   	- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) **`Full` `Multi` `FOSS`**    
-   	- [OpenCalc](https://github.com/Darkempire78/OpenCalc) **`Full` `Multi` `FOSS`**    
-   	- [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi` `💴`**    
-   	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi` `FOSS`**    
-   	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi` `FOSS`**   
-   	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**      
+- **Calculator**
+   	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi` `FOSS`**
+   	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi` `FOSS`**
+   	- [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) **`Full` `Multi` `FOSS`**
+   	- [OpenCalc](https://github.com/Darkempire78/OpenCalc) **`Full` `Multi` `FOSS`**
+   	- [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) **`MD-` `Monet` `Multi` `💴`**
+   	- [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) **`Full` `Multi` `FOSS`**
+   	- [Currencies](https://github.com/sal0max/currencies) **`MD-` `Monet` `Multi` `FOSS`**
+   	- [Tip Calculator](https://play.google.com/store/apps/details?id=com.chimbori.milliways) **`Full`**
    	- [Cart Calculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) **`Full` `FOSS`**
    	- [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator) **`MD`**
    	- [zCalc](https://github.com/ziadOUA/zCalc) **`MD-` `Monet` `FOSS`**
@@ -1266,92 +1266,92 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
    	- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
    	- [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
-- **Translator**    
-   	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**    
-   	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**    
+- **Translator**
+   	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**
+   	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**
    	- [Lentil Translate](https://github.com/yaxarat/lingvaandroid) **`Full` `FOSS`**
    	- [Monocles Translator](https://codeberg.org/Arne/monocles_translator) **`Full` `FOSS`**
-   	- [Instant Translator](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy) **`MD-`**    
+   	- [Instant Translator](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy) **`MD-`**
 - **Recorder**
-   	- [micCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) **`Full`**    
-   	- [Record You](https://github.com/Bnyro/recordYou) **`Full` `FOSS`**    
-   	- [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) **`Full` `FOSS`**    
+   	- [micCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) **`Full`**
+   	- [Record You](https://github.com/Bnyro/recordYou) **`Full` `FOSS`**
+   	- [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) **`Full` `FOSS`**
    	- [Audio Notes](https://github.com/certified84/AudioNote) **`MD-` `FOSS`**
    	- [You Tune](https://github.com/SuhasDissa/You-Tune) **`TODO` `FOSS`**
-- **Scanner**    
-   	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full` `💴`**    
-   	- [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi` `FOSS`**    
-   	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi` `💴`**   
-   	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`MD-` `Monet` `💴`**    
+- **Scanner**
+   	- [Monochrome](https://play.google.com/store/apps/details?id=moe.zhs.monochrome) **`Full` `💴`**
+   	- [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) **`Full` `Multi` `FOSS`**
+   	- [Barquode](https://play.google.com/store/apps/details?id=com.pranavpandey.matrix) **`Full` `Multi` `💴`**
+   	- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) **`MD-` `Monet` `💴`**
    	- [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) **`TODO` `FOSS`**
    	- [MyQR](https://github.com/sankethsj/qr-code-generator) **`Full` `FOSS`**
    	- [ShowMeMore](https://play.google.com/store/apps/details?id=app.wakirox.freecensorship) **`Full`**
    	- [QScan](https://github.com/Henry-Hiles/QScan) **`Full` `FOSS`**
    	- [Simple OCR](https://play.google.com/store/apps/details?id=com.yangdai.simpleocr) **`Full` `FOSS`**
-- **Flashlight**    
-   	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full` `FOSS`**    
-   	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full` `FOSS`**    
+- **Flashlight**
+   	- [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) **`Full` `FOSS`**
+   	- [Flashdim](https://github.com/cyb3rko/flashdim) **`Full` `FOSS`**
    	- [Shake Flashlight](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight) **`Full`**
-   	- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) **`Full` `FOSS`**    
-- **Clock**    
-   	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full` `FOSS`**    
-   	- [Floattime](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**    
-   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full` `FOSS`** 
+   	- [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Launcher) **`Full` `FOSS`**
+- **Clock**
+   	- [Clock You](https://github.com/Bnyro/ClockYou) **`Full` `FOSS`**
+   	- [Floattime](https://www.coolapk.com/apk/com.kimger.floattime) **`MD-`**
+   	- [Simple Clock](https://github.com/SimpleMobileTools/Simple-Clock) **`Full` `FOSS`**
    	- [Atomic Clock](https://play.google.com/store/apps/details?id=partl.atomicclock) **`Full`**
 - **Stopwatch**
    	- [Stopwatch (Wear OS)](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`Full` `Multi`**
    	- [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) **`MD`**
 - **Timer**
-   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**    
+   	- [Workout Timer](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) **`Full`**
    	- [Cofi](https://github.com/rozPierog/Cofi) **`M3E` `Multi` `FOSS`**
    	- [Working Rours](https://play.google.com/store/apps/details?id=partl.workinghours) **`Full`**
    	- [Cuppa](https://github.com/ncosgray/cuppa_mobile) **`Full` `FOSS`**
-   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-` `FOSS`**   
-   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full` `FOSS`**    
-- **Compass**    
-   	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet` `FOSS`**  
+   	- [Timer +X](https://gitlab.com/humbertofraga/timerx) **`MD-` `FOSS`**
+   	- [Floating Timer](https://github.com/tberghuis/FloatingCountdownTimer) **`Full` `FOSS`**
+- **Compass**
+   	- [Compass](https://github.com/Kr0oked/Compass) **`MD-` `Monet` `FOSS`**
 - **2FA**
-   	- [Mauth](https://github.com/X1nto/Mauth) **`Full` `FOSS`** 
+   	- [Mauth](https://github.com/X1nto/Mauth) **`Full` `FOSS`**
    	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full` `FOSS`**
    	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full` `FOSS`**
    	- [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full` `FOSS`**
    	- [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
-- **Password Manager**    
-   	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD` `FOSS`**    
-   	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full` `💴`**    
-   	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full` `FOSS`**    
-   	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full` `FOSS`**    
-   	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD` `FOSS`**    
-   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`M3E` `Multi` `💴`**   
+- **Password Manager**
+   	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD` `FOSS`**
+   	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full` `💴`**
+   	- [Pazzword](https://github.com/cyb3rko/pazzword) **`Full` `FOSS`**
+   	- [Pincredible](https://github.com/cyb3rko/pincredible) **`Full` `FOSS`**
+   	- [Wassword](https://github.com/polilluminato/wassword-flutter) **`MD` `FOSS`**
+   	- [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) **`M3E` `Multi` `💴`**
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
    	- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
    	- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
-- **Sender**      
-   	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**    
-   	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**    
-   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi` `FOSS`**       
+- **Sender**
+   	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**
+   	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**
+   	- [LocalSend](https://github.com/localsend/localsend) **`Full` `Multi` `FOSS`**
    	- [Photon](https://github.com/abhi16180/photon) **`MD-` `FOSS`**
-   	- [Fei](https://github.com/storytellerF/Fei) **`Full` `FOSS`** 
+   	- [Fei](https://github.com/storytellerF/Fei) **`Full` `FOSS`**
 - **Connecting Tool**
    	- [FnSync](https://www.coolapk.com/apk/holmium.fnsync.ngp) **`Full`**
    	- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) **`Full` `Multi` `FOSS`**
    	- [Octi](https://github.com/d4rken-org/octi) **`MD-` `Monet` `FOSS`**
-- **Peripheral**    
-   	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full` `FOSS`**    
-   	- [CAPod](https://github.com/d4rken-org/capod) **`MD` `FOSS`**    
-   	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full` `FOSS`**    
+- **Peripheral**
+   	- [MiDoze](https://github.com/Keddnyo/MiDoze) **`Full` `FOSS`**
+   	- [CAPod](https://github.com/d4rken-org/capod) **`MD` `FOSS`**
+   	- [OpenSCQ30](https://github.com/Oppzippy/OpenSCQ30) **`Full` `FOSS`**
    	- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) **`Full` `Multi` `FOSS`**
    	- [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
    	- [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) **`MD` `Multi` `FOSS`**
-- **AI**    
+- **AI**
    	- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
-   	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full` `FOSS`**    
-   	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
-   	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full` `FOSS`**    
-   	- [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai) **`MD`**    
-   	- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) **`MD`**    
-   	- [Sense](https://github.com/F0x1d/Sense) **`Full` `FOSS`**  
+   	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full` `FOSS`**
+   	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**
+   	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full` `FOSS`**
+   	- [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai) **`MD`**
+   	- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) **`MD`**
+   	- [Sense](https://github.com/F0x1d/Sense) **`Full` `FOSS`**
    	- [Stable Difusion AI](https://play.google.com/store/apps/details?id=com.shifthackz.aisdv1.app) **`Full`**
    	- [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt) **`MD`**
    	- [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
@@ -1361,23 +1361,23 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Material GPT](https://github.com/DylanAkp/MaterialGPT) **`MD` `FOSS`**
    	- [VIC](https://github.com/iamlooper/VIC) **`Full`**
    	- [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
-- **Auto Clicker**    
-   	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**    
-   	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**    
-   	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full` `FOSS`**    
+- **Auto Clicker**
+   	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**
+   	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**
+   	- [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) **`Full` `FOSS`**
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
    	- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Password: 7vm2) **`Full`**
    	- [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full` `💴`**
    	- [Touch Tool Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
-- **Searching Tool**    
-   	- [Gugal](https://gitlab.com/narektor/gugal) **`Full` `FOSS`**    
+- **Searching Tool**
+   	- [Gugal](https://gitlab.com/narektor/gugal) **`Full` `FOSS`**
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
-   	- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**      
-- **MIUI ROM Downloading Tool**   
-   	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**    
-   	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full` `💴`**    
-- **Toolbox**    
-   	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
+   	- [Tunedetective](https://github.com/n000tavailable/tunedetective) **`Full` `FOSS`**
+- **MIUI ROM Downloading Tool**
+   	- [MIUI Rom](https://t.me/miuiappshare) **`Full`**
+   	- [downmi](https://play.google.com/store/apps/details?id=xyz.izadi.downmi2) **`Full` `💴`**
+- **Toolbox**
+   	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
    	- [Plain](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`**
    	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
@@ -1393,15 +1393,15 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
    	- [FlClash](https://github.com/chen08209/FlClash) **`Full` `Multi` `FOSS`**
 - **Measuring**
-   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
+   	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`**
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full` `FOSS`**
    	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
-- **Others**    
-   	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full` `FOSS`**    
-   	- [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs) **`Full`**    
-   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**      
-   	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi` `FOSS`**    
-   	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD` `FOSS`**    
+- **Others**
+   	- [TSViewer](https://github.com/BlazeCodeDev/TSViewer) **`Full` `FOSS`**
+   	- [Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs) **`Full`**
+   	- [Beta Maniac](https://play.google.com/store/apps/details?id=it.mirko.beta) **`Full`**
+   	- [Rays](https://github.com/SkyD666/Rays-Android) **`Full` `Multi` `FOSS`**
+   	- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) **`MD` `FOSS`**
    	- [Pocket Mode](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) **`Full`**
    	- [FontConverter](https://github.com/123Duo3/FontConverter) **`Full` `Multi` `FOSS`**
    	- [Secret Screenshots](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots) **`MD`**
