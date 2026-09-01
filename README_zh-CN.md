@@ -1241,8 +1241,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **资源搜索**
    	- [奇妙搜索](https://www.123pan.com/s/izDSVv-0JQWA) **`MD` `Multi`**   
    	- [混合盘](https://hunhepan.com/) **`MD`**
-- **网盘** 
-   	- [lanzoucloud](https://mayuu.lanzoui.com/inSWi0zbs13e)（密码233q） **`MD`**    
+- **网盘**
+   	- [lanzoucloud](https://jdy2002.lanzoue.com/b041496oj)（密码123456） **`MD`**
    	- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) **`Full` `Multi` `💴`**
    	- [Nextcloud Deck](https://github.com/stefan-niedermann/nextcloud-deck) **`MD` `FOSS`**    
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD` `FOSS`**
