@@ -158,7 +158,7 @@
 	- **视频下载**
 	- **应用下载**
 	- **音乐下载**
-	     - [EchoirX](https://github.com/imjyotiraditya/EchoirX) **`Full` `FOSS` `M3E`**
+	     - [EchoirX](https://github.com/imjyotiraditya/EchoirX) **`Full` `FOSS` `M3E` `👻`**
 	     - [音阅/敦伦调调](https://www.magicalapk.com/app/share/app?id=43967) **`Full`**
 	- **资源搜索**
 	- **网盘**
