@@ -188,6 +188,7 @@
 		 - [Google Gemini](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) **`MD`**
 	- **自动任务**
 	- **搜索**
+	     - [Quick Search](https://github.com/teja2495/quick-search) **`M3E` `FOSS`**
 	- **MIUI ROM 查找**
 	- **多功能工具箱**
 	     - [OneDroid](https://qingge.tech/onedroid/web/) **`MD` `FOSS`**
