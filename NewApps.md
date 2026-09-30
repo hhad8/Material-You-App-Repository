@@ -163,6 +163,7 @@
 	- **资源搜索**
 	- **网盘**
 	     - [SplitLanzou](https://github.com/Yu2002s/SplitLanzou) **`Full` `FOSS`**
+	     - [云析](https://github.com/CYQawa/YunX) **`M3E` `FOSS`**
 	- **输入法**
 	- **计算器**
 	- **翻译**
